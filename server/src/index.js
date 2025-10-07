@@ -20,14 +20,6 @@ app.get('/health', (req, res) => {
   res.json({ ok: true });
 });
 
-// Add this route to your server/index.js file
-
-app.get('/', (req, res) => {
-  // This is a standard way for APIs to respond to the root URL
-  res.status(200).json({
-      message: 'Welcome to the API! Available endpoints are at /api/auth, /api/totp, and /api/vault.',
-  });
-});
 
 app.use('/api/auth', authRoutes);
 app.use('/api/totp', totpRoutes);
