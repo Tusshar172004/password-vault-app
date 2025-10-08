@@ -1,4 +1,10 @@
-Password Generator + Secure Vault (MVP)
+Password-Vault-Working URL Link
+Link:- https://password-vault-app-1.onrender.com
+
+Drive Link for Working video of the project:- https://drive.google.com/file/d/1csfL4cH72w7GEykhNTrea_qg-HwI2mn7/view?usp=sharing
+
+
+  Password Generator + Secure Vault (MVP)
 
 Tech stack
 
@@ -33,11 +39,6 @@ Features
 - Tags/folders and filtering
 - Dark mode (toggle + persistence)
 - Export/import encrypted file
-
-  Password-Vault-Working URL Link
-  Link:- https://password-vault-app-1.onrender.com
-
-  Drive Link for Working video of the project:- https://drive.google.com/file/d/1csfL4cH72w7GEykhNTrea_qg-HwI2mn7/view?usp=sharing
 
 Crypto
 
